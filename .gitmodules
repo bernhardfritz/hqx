@@ -1,0 +1,3 @@
+[submodule "lib/DevIL"]
+	path = lib/DevIL
+	url = https://github.com/DentonW/DevIL.git
